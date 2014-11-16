@@ -119,7 +119,6 @@ BOARD_SEPOLICY_DIRS += \
 
 BOARD_SEPOLICY_UNION += \
     app.te \
-    file_contexts \
     ueventd.te
 
 # Time services
