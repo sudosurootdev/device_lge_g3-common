@@ -1,7 +1,13 @@
-Copyright 2014 - The CyanogenMod Project
-
 Device configuration for LG G3.
 =====================================
+
+1) How to bump inline:
+- In your device place: TARGET_REQUIRES_BUMP := true
+- Go to http://apps.codefi.re/bump/userpanel/dashboard and sign up then grap your api key
+- In terminal: $sudo gedit ~/.bashrc
+- export CF_BUMP_API_KEY=<Your Key here>
+- Profit!!!
+
 
 Basic   | Spec Sheet
 -------:|:-------------------------
