@@ -28,8 +28,8 @@
     <ctl name="HPHR Volume" value="20" />
     <ctl name="RX1 Digital Volume" value="60" />
     <ctl name="RX2 Digital Volume" value="60" />
-    <ctl name="RX3 Digital Volume" value="84" />
-    <ctl name="RX4 Digital Volume" value="84" />
+    <ctl name="RX3 Digital Volume" value="90" />
+    <ctl name="RX4 Digital Volume" value="90" />
     <ctl name="RX5 Digital Volume" value="84" />
     <ctl name="RX6 Digital Volume" value="84" />
     <ctl name="RX7 Digital Volume" value="84" />
@@ -815,8 +815,8 @@
         <ctl name="SLIM RX1 MUX" value="AIF1_PB" />
         <ctl name="SLIM_0_RX Channels" value="One" />
         <ctl name="RX3 MIX1 INP1" value="RX1" />
-        <ctl name="RX3 Digital Volume" value="66" />
-        <ctl name="RX4 Digital Volume" value="66" />
+        <ctl name="RX3 Digital Volume" value="72" />
+        <ctl name="RX4 Digital Volume" value="72" />
         <ctl name="RDAC5 MUX" value="DEM3_INV" />
         <ctl name="LINEOUT1 Volume" value="16" />
         <ctl name="LINEOUT3 Volume" value="16" />
@@ -1493,8 +1493,8 @@
 
     <path name="loopback-speaker">
         <path name="speaker" />
-        <ctl name="RX3 Digital Volume" value="60" />
-        <ctl name="RX4 Digital Volume" value="60" />
+        <ctl name="RX3 Digital Volume" value="72" />
+        <ctl name="RX4 Digital Volume" value="72" />
         <ctl name="RDAC5 MUX" value="DEM3_INV" />
         <ctl name="LINEOUT1 Volume" value="20" />
         <ctl name="LINEOUT3 Volume" value="20" />
